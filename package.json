@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Awesome readme-generator",
+  "main": "src/index.js",
+  "author": "C. Gabriel Godri",
+  "license": "MIT",
+  "scripts":{
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "prompts": "^2.3.2"
+  }
+}
